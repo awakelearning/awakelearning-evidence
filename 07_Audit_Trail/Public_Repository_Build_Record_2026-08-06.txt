@@ -1,0 +1,32 @@
+AWAKE LEARNING ELECTION EVIDENCE - PUBLIC REPOSITORY BUILD RECORD
+
+Build date: August 6, 2026
+Purpose: Create a clean public evidence repository without distributing the book manuscript.
+
+Excluded from the public build:
+- 01_Stable_Manuscript and all manuscript files
+- Outdated manuscript-specific distribution instructions
+- Manuscript-specific reviewer invitation templates
+- A redundant top-level duplicate of the Voting Systems folder
+- macOS .DS_Store and __MACOSX resource-fork metadata
+
+Preserved without modification:
+- All 58 source-PDF placements under 06_Source_Corpus
+- Existing source filenames
+- Existing source file bytes and SHA-256 values
+- Existing original-ZIP and acquisition records in 07_Audit_Trail
+
+Public-facing additions:
+- 01_Public_Repository_Guide/README.md
+- Updated public repository README.md
+- Public corpus-provenance guide
+- Public reviewer guide
+- Human-review transparency guide
+- Clarifying language on the Governance Workbook Start Here sheet
+
+Integrity check:
+- 58 source-PDF placements present
+- 55 unique source-PDF hashes
+- 3 intentional cross-folder repeat groups
+- 269 total source-PDF pages
+- All 58 source files match Included_PDF_SHA256.csv

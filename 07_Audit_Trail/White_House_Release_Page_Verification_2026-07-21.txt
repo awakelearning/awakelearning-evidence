@@ -1,0 +1,13 @@
+OFFICIAL RELEASE PAGE VERIFICATION
+
+URL: https://www.whitehouse.gov/election-integrity/
+Verified accessible: July 21, 2026
+Authority: The White House
+Observed page title: Election Integrity
+Observed collections:
+- Vulnerabilities in Electronic Voting and Ballot-Counting Systems
+- China’s Acquisition and Exploitation of American Voter Data
+- Michigan Voter-Registration Investigation
+- Noncitizens on State Voter Rolls
+
+Boundary: This is a dated verification record of the live public page, not a contemporaneous July 16 webpage capture. The acquired ZIP archives and their hashes are the preserved corpus under review.

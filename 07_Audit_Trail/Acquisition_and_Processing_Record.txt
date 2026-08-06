@@ -1,0 +1,18 @@
+AWAKE LEARNING ELECTION EVIDENCE - ACQUISITION AND PROCESSING RECORD
+
+Release authority and location: The White House, Election Integrity page
+URL: https://www.whitehouse.gov/election-integrity/
+Public release timing: July 16, 2026. The official page lists the four collections included in this package.
+Acquired by: Thomas Richard Annis
+Acquisition date: July 16, 2026
+Exact preservation/upload receipt: 2026-07-17 02:38:50.517831 UTC (July 16, 2026, 10:38:50.517831 p.m. EDT)
+Acquisition boundary: The four archives had been downloaded no later than the exact receipt timestamp above.
+Timestamp limitation: The exact browser download-completion event was not independently retained. The receipt timestamp is not misrepresented as a browser event log.
+Original archive filenames: see Original_ZIP_SHA256.csv and Original_ZIP_Receipt_Metadata.csv.
+Extraction: archives were extracted for the Awake Learning investigation.
+Extraction responsibility: Thomas Richard Annis, with AI-assisted technical processing.
+Filename changes: none to included PDFs. Folder organization was added only for review navigation.
+Exclusions: macOS resource-fork files, .DS_Store, and non-evidentiary archive-support artifacts.
+Processing: text extraction was used where available; rendered page review was used for redacted, image-based, or OCR-limited pages. No source PDF content was rewritten. PDFs were not repaired, rotated, or modified for inclusion in the review corpus.
+OCR note: OCR/extracted text was an aid to navigation and comparison, not the final authority for publication claims. Publication-level wording was checked against the rendered source page when required.
+Integrity: SHA-256 hashes for original ZIP archives and every included PDF are supplied in this folder.
